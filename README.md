@@ -5,5 +5,5 @@ A final semester B.Tech student with strong web development skills and problem s
 
 
 - 🔭 I’m currently working on an Opensource Medical Data Management System.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently exploring JavaScript.
 - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/hyderdevelops/) 
